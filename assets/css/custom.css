@@ -1,0 +1,12 @@
+#Servicios{
+    text-align: center;
+}
+#tContact {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+#tContact th, #tContact td {
+    text-align: left;
+    padding: 8px;
+  }
